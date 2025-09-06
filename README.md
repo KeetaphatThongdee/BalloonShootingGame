@@ -32,3 +32,11 @@ This is a simple balloon shooting game build in Java for my My first-year projec
 - More balloons on screen at once.  
 - Increased number of **blue balloons**.  
 - Only **1 life** — a single mistake ends the game!
+
+## 📸 Screenshots
+
+### Normal Mode
+![Normal Mode](Normal%20mode.png)
+
+### Hard Mode
+![Hard Mode](Hard%20mode.png)
